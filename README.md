@@ -1,0 +1,1 @@
+Até o momento estou achando o curso muito bom, imersivo e em geral com uma boa didática. No conteúdo de GitHub tem passos largos e incisivos pra dar em busca de melhora e compreenção com o nível de alguém iniciante nos conceitos Git e afins.. Mas até o momento no geral... Só alegria!
